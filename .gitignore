@@ -1,0 +1,11 @@
+.terraform
+.envrc
+
+*.tfstate
+*.tfstate.backup
+*.tfstate.*.backup
+
+terraform.tfstate
+
+temp
+tfplan
